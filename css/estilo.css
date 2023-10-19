@@ -1,0 +1,167 @@
+
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 250px;
+    /* border: 3px solid white; */
+
+    
+}
+
+
+
+header{
+    background-color: #bf382c;
+    height: 80px;
+}
+
+ .abajo{
+    color: white;
+    text-align: center;
+    
+    
+  }
+   .contenedor1{
+    width: 100%;
+    height: 700px;
+    background-color: #FFFFFD;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 80px;
+
+  }
+  h1, h2 {
+    text-align: center;
+    color: black;
+  
+
+    
+
+
+  }
+
+footer{
+    width: 100%;
+    height: 180px;
+    background-color: black;
+}
+.foto{
+    width: 450px;
+    
+}
+
+input{
+    border:none;
+    border-bottom: 5px solid grey;
+
+
+
+
+}
+
+.input-container {
+    padding-right: 100px;
+    padding-bottom: 70px;
+}
+
+.input-container label {
+    display: block;
+    font-size: x-large; 
+    color: grey;
+    padding-bottom: 15px;
+}
+
+.input-container input {
+    width: 300px; 
+    box-sizing: border-box;
+    height: 40px; 
+    font-size: x-large;
+    
+
+}
+
+.input-container input:focus-visible {
+    outline: none;
+
+}
+.contactanos{
+    display: flex;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+.enviar{
+   background-color: #bf382c;
+   width: 100px;
+   height: 50px;
+   border-radius: 5px;
+   border:none;
+   font-size: larger;
+
+}
+.total{
+    width: 100% !important;
+
+}
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.second {
+    display: flex;
+}
+.sama img{
+    width: 200px;
+    
+}
+.ubicacion img{
+    width: 20px;
+    padding-right: 5px;
+}
+.facebook img{
+    width: 40px;
+}
+.instagram img{
+    width: 40px;
+}
+.whatsapp img{
+    width: 40px;
+    padding-right: 10px;
+}
+.youtube img{
+    width: 40px;
+}
+.box{
+    padding-left: 100px;
+}
+.white{
+    color: white;
+
+}
+.ubicacion, .whatsapp{
+    display: flex;
+    align-items: center;
+}
+
+.redes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sama {
+    padding-left: 30px;
+}
+
+.whatsapp {
+    padding-right: 100px;
+}
